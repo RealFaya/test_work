@@ -1,0 +1,13 @@
+C:\Users\kirill\source\repos\test_work\test_work\bin\Debug\netcoreapp3.1\test_work.exe
+C:\Users\kirill\source\repos\test_work\test_work\bin\Debug\netcoreapp3.1\test_work.deps.json
+C:\Users\kirill\source\repos\test_work\test_work\bin\Debug\netcoreapp3.1\test_work.runtimeconfig.json
+C:\Users\kirill\source\repos\test_work\test_work\bin\Debug\netcoreapp3.1\test_work.runtimeconfig.dev.json
+C:\Users\kirill\source\repos\test_work\test_work\bin\Debug\netcoreapp3.1\test_work.dll
+C:\Users\kirill\source\repos\test_work\test_work\bin\Debug\netcoreapp3.1\test_work.pdb
+C:\Users\kirill\source\repos\test_work\test_work\obj\Debug\netcoreapp3.1\test_work.csprojAssemblyReference.cache
+C:\Users\kirill\source\repos\test_work\test_work\obj\Debug\netcoreapp3.1\test_work.AssemblyInfoInputs.cache
+C:\Users\kirill\source\repos\test_work\test_work\obj\Debug\netcoreapp3.1\test_work.AssemblyInfo.cs
+C:\Users\kirill\source\repos\test_work\test_work\obj\Debug\netcoreapp3.1\test_work.csproj.CoreCompileInputs.cache
+C:\Users\kirill\source\repos\test_work\test_work\obj\Debug\netcoreapp3.1\test_work.dll
+C:\Users\kirill\source\repos\test_work\test_work\obj\Debug\netcoreapp3.1\test_work.pdb
+C:\Users\kirill\source\repos\test_work\test_work\obj\Debug\netcoreapp3.1\test_work.genruntimeconfig.cache
