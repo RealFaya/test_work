@@ -12,7 +12,7 @@ namespace test_work
 		public string fio;
 		public int age;
 		public string post;
-		public int workHous;
+		public int workHours;
 
 		private static List<User> _users;
 		public static List<User> Users
@@ -27,7 +27,7 @@ namespace test_work
 			fio = userInfo[0];
 			age = 1 < length ? intTryParse(userInfo[1], 18) : 18;
 			post = 2 < length ? userInfo[2] : "не определено";
-			workHous = 3 < length ? intTryParse(userInfo[3], 0) : 0;
+			workHours = 3 < length ? intTryParse(userInfo[3], 0) : 0;
 		}
 
 		public User(DataRow userInfo)
@@ -35,7 +35,7 @@ namespace test_work
 			fio = (string)userInfo["fio"];
 			age = (int)userInfo["age"];
 			post = (string)userInfo["post"];
-			workHous = (int)userInfo["work_hours"];
+			workHours = (int)userInfo["work_hours"];
 		}
 
 		private int intTryParse(string str, int def)

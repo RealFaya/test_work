@@ -62,7 +62,7 @@ namespace test_work
 						{
 							Console.WriteLine(string.Format("Всего сотрудников: {0}", User.Users.Count));
 							Console.WriteLine(string.Format("Всего сотрудников с фамилией \"Иванов\": {0}", User.Users.Where(x => x.fio.Contains("Иванов")).Count()));
-							Console.WriteLine(string.Format("Сумма отработанных часов: {0}", User.Users.Sum(x => x.workHous)));
+							Console.WriteLine(string.Format("Сумма отработанных часов: {0}", User.Users.Sum(x => x.workHours)));
 							Console.WriteLine(string.Format("Самый молодой сотрудник: {0}", User.Users.FirstOrDefault(x => x.age == User.Users.Min(x => x.age)).ToString()));
 
 							Console.WriteLine("Повторить? [Y - да | N - нет]");
